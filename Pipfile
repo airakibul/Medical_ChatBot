@@ -8,6 +8,8 @@ langchain = "*"
 langchain-community = "*"
 langchain-huggingface = "*"
 faiss-cpu = "*"
+pypdf = "*"
+sentence-transformers = "*"
 
 [dev-packages]
 
